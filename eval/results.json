@@ -1,0 +1,989 @@
+{
+  "retrieval": [
+    {
+      "config": "A",
+      "mode": "vector",
+      "n": 17,
+      "hit@1": 0.47058823529411764,
+      "hit@5": 0.7647058823529411,
+      "mrr": 0.607843137254902,
+      "db_ms_mean": 3.464951234705308,
+      "ranks": [
+        {
+          "id": "q01",
+          "rank": 1
+        },
+        {
+          "id": "q02",
+          "rank": 2
+        },
+        {
+          "id": "q03",
+          "rank": 2
+        },
+        {
+          "id": "q04",
+          "rank": 1
+        },
+        {
+          "id": "q05",
+          "rank": 2
+        },
+        {
+          "id": "q06",
+          "rank": 1
+        },
+        {
+          "id": "q07",
+          "rank": null
+        },
+        {
+          "id": "q08",
+          "rank": 3
+        },
+        {
+          "id": "q09",
+          "rank": null
+        },
+        {
+          "id": "q10",
+          "rank": 2
+        },
+        {
+          "id": "q11",
+          "rank": 1
+        },
+        {
+          "id": "q12",
+          "rank": null
+        },
+        {
+          "id": "q13",
+          "rank": null
+        },
+        {
+          "id": "q14",
+          "rank": 1
+        },
+        {
+          "id": "q15",
+          "rank": 1
+        },
+        {
+          "id": "q16",
+          "rank": 1
+        },
+        {
+          "id": "q17",
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "config": "A",
+      "mode": "hybrid",
+      "n": 17,
+      "hit@1": 0.5294117647058824,
+      "hit@5": 0.7647058823529411,
+      "mrr": 0.6274509803921569,
+      "db_ms_mean": 10.413646697998047,
+      "ranks": [
+        {
+          "id": "q01",
+          "rank": 1
+        },
+        {
+          "id": "q02",
+          "rank": 1
+        },
+        {
+          "id": "q03",
+          "rank": 2
+        },
+        {
+          "id": "q04",
+          "rank": 1
+        },
+        {
+          "id": "q05",
+          "rank": 3
+        },
+        {
+          "id": "q06",
+          "rank": 1
+        },
+        {
+          "id": "q07",
+          "rank": null
+        },
+        {
+          "id": "q08",
+          "rank": 3
+        },
+        {
+          "id": "q09",
+          "rank": null
+        },
+        {
+          "id": "q10",
+          "rank": 1
+        },
+        {
+          "id": "q11",
+          "rank": 1
+        },
+        {
+          "id": "q12",
+          "rank": null
+        },
+        {
+          "id": "q13",
+          "rank": null
+        },
+        {
+          "id": "q14",
+          "rank": 1
+        },
+        {
+          "id": "q15",
+          "rank": 2
+        },
+        {
+          "id": "q16",
+          "rank": 1
+        },
+        {
+          "id": "q17",
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "config": "B",
+      "mode": "vector",
+      "n": 17,
+      "hit@1": 0.47058823529411764,
+      "hit@5": 0.7058823529411765,
+      "mrr": 0.5490196078431373,
+      "db_ms_mean": 5.369438844568589,
+      "ranks": [
+        {
+          "id": "q01",
+          "rank": 1
+        },
+        {
+          "id": "q02",
+          "rank": 3
+        },
+        {
+          "id": "q03",
+          "rank": 4
+        },
+        {
+          "id": "q04",
+          "rank": 1
+        },
+        {
+          "id": "q05",
+          "rank": 1
+        },
+        {
+          "id": "q06",
+          "rank": 1
+        },
+        {
+          "id": "q07",
+          "rank": null
+        },
+        {
+          "id": "q08",
+          "rank": null
+        },
+        {
+          "id": "q09",
+          "rank": null
+        },
+        {
+          "id": "q10",
+          "rank": 4
+        },
+        {
+          "id": "q11",
+          "rank": null
+        },
+        {
+          "id": "q12",
+          "rank": null
+        },
+        {
+          "id": "q13",
+          "rank": 2
+        },
+        {
+          "id": "q14",
+          "rank": 1
+        },
+        {
+          "id": "q15",
+          "rank": 1
+        },
+        {
+          "id": "q16",
+          "rank": 1
+        },
+        {
+          "id": "q17",
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "config": "B",
+      "mode": "hybrid",
+      "n": 17,
+      "hit@1": 0.5294117647058824,
+      "hit@5": 0.7058823529411765,
+      "mrr": 0.607843137254902,
+      "db_ms_mean": 13.550870558794808,
+      "ranks": [
+        {
+          "id": "q01",
+          "rank": 1
+        },
+        {
+          "id": "q02",
+          "rank": 1
+        },
+        {
+          "id": "q03",
+          "rank": 2
+        },
+        {
+          "id": "q04",
+          "rank": 1
+        },
+        {
+          "id": "q05",
+          "rank": 1
+        },
+        {
+          "id": "q06",
+          "rank": 1
+        },
+        {
+          "id": "q07",
+          "rank": null
+        },
+        {
+          "id": "q08",
+          "rank": null
+        },
+        {
+          "id": "q09",
+          "rank": null
+        },
+        {
+          "id": "q10",
+          "rank": 2
+        },
+        {
+          "id": "q11",
+          "rank": 1
+        },
+        {
+          "id": "q12",
+          "rank": null
+        },
+        {
+          "id": "q13",
+          "rank": null
+        },
+        {
+          "id": "q14",
+          "rank": 3
+        },
+        {
+          "id": "q15",
+          "rank": 1
+        },
+        {
+          "id": "q16",
+          "rank": 1
+        },
+        {
+          "id": "q17",
+          "rank": 1
+        }
+      ]
+    }
+  ],
+  "generation": [
+    {
+      "config": "A",
+      "mode": "hybrid",
+      "errors": 0,
+      "citation_correct": "12/17",
+      "false_refusals": "2/17",
+      "refusal_correct": "3/3",
+      "retrieve_ms_mean": 56.21384382247925,
+      "generate_s_mean": 2.8944398880004885,
+      "prompt_tokens_mean": 1390,
+      "output_tokens_mean": 233,
+      "prompt_tokens_total": 27800,
+      "output_tokens_total": 4660,
+      "rows": [
+        {
+          "id": "q01",
+          "answerable": true,
+          "refused": false,
+          "answer": "The amended Colorado Regulation 10-1-1 became effective on October 15, 2025 [co_reg_10-1-1_amended, p. 6].",
+          "citations": [
+            [
+              "co_reg_10-1-1_amended",
+              6
+            ]
+          ],
+          "retrieve_s": 0.021342039108276367,
+          "generate_s": 1.522601842880249,
+          "prompt_tokens": 1415,
+          "output_tokens": 102,
+          "citation_correct": true
+        },
+        {
+          "id": "q02",
+          "answerable": true,
+          "refused": false,
+          "answer": "The report must include the title and qualifications of each individual responsible for ensuring compliance, along with the specific requirement(s) from Section 5 for which that individual is responsible [co_reg_10-1-1_amended, p. 5]. Providing the individuals' names is optional/unnecessary, and the report must be signed by an officer attesting to compliance [co_reg_10-1-1_amended, p. 5].",
+          "citations": [
+            [
+              "co_reg_10-1-1_amended",
+              5
+            ]
+          ],
+          "retrieve_s": 0.060077667236328125,
+          "generate_s": 3.2578790187835693,
+          "prompt_tokens": 1430,
+          "output_tokens": 313,
+          "citation_correct": true
+        },
+        {
+          "id": "q03",
+          "answerable": true,
+          "refused": false,
+          "answer": "The compliance report must be no more than ten (10) pages, including an executive summary, and must address Sections 5.A.1. through 5.A.13 [co_reg_10-1-1_amended, p. 5].",
+          "citations": [
+            [
+              "co_reg_10-1-1_amended",
+              5
+            ]
+          ],
+          "retrieve_s": 0.04263710975646973,
+          "generate_s": 2.3584818840026855,
+          "prompt_tokens": 1221,
+          "output_tokens": 152,
+          "citation_correct": true
+        },
+        {
+          "id": "q04",
+          "answerable": true,
+          "refused": false,
+          "answer": "An insurer that does not use ECDIS (or algorithms/predictive models that use ECDIS) must submit to the Division an attestation signed by an officer indicating that the insurer does not use ECDIS or algorithms and/or predictive models that use ECDIS. This must be filed within one month of the regulation's effective date and on December 1 annually thereafter [co_reg_10-1-1_amended, p. 5].",
+          "citations": [
+            [
+              "co_reg_10-1-1_amended",
+              5
+            ]
+          ],
+          "retrieve_s": 0.06430292129516602,
+          "generate_s": 3.0038352012634277,
+          "prompt_tokens": 1402,
+          "output_tokens": 269,
+          "citation_correct": true
+        },
+        {
+          "id": "q05",
+          "answerable": true,
+          "refused": false,
+          "answer": "No. For health benefit plan insurers, ECDIS does not include an individual's medical records [co_reg_10-1-1_amended, p. 2].",
+          "citations": [
+            [
+              "co_reg_10-1-1_amended",
+              2
+            ]
+          ],
+          "retrieve_s": 0.03971385955810547,
+          "generate_s": 2.5375540256500244,
+          "prompt_tokens": 1413,
+          "output_tokens": 127,
+          "citation_correct": true
+        },
+        {
+          "id": "q06",
+          "answerable": true,
+          "refused": false,
+          "answer": "According to EIOPA's 2025 Opinion, the AI Act identifies as high-risk the use of AI systems for risk assessment and pricing in relation to natural persons in the case of life and health insurance [eiopa_ai_opinion_2025, p. 3].",
+          "citations": [
+            [
+              "eiopa_ai_opinion_2025",
+              3
+            ]
+          ],
+          "retrieve_s": 0.04809975624084473,
+          "generate_s": 2.095539093017578,
+          "prompt_tokens": 1462,
+          "output_tokens": 179,
+          "citation_correct": true
+        },
+        {
+          "id": "q07",
+          "answerable": true,
+          "refused": false,
+          "answer": "Based on the passages, insurers' AI governance and risk-management systems should cover:\n\n- **Risk-based, proportionate governance**: high-level supervisory expectations for governance and risk-management systems, embedded into existing risk management frameworks and adapted to the specificities of different AI systems used across the insurance value chain [eiopa_ai_opinion_2025, p. 4]. This applies to mathematical models generally, regardless of whether they qualify as AI systems [eiopa_ai_opinion_2025, p. 4].\n- **Ongoing monitoring**: enabling timely identification and remediation of issues such as model drift or data degradation [eiopa_ai_opinion_2025, p. 12].\n- **Testing**: including assessing potential connections to other AI systems via APIs, which could impact overall security and performance [eiopa_ai_opinion_2025, p. 12].\n- **Security and resilience**: protection against unauthorised third parties exploiting vulnerabilities (e.g. data poisoning or adversarial attacks), supported by adequate, up-to-date IT infrastructure and fall-back plans to ensure ICT business continuity [eiopa_ai_opinion_2025, p. 12].",
+          "citations": [
+            [
+              "eiopa_ai_opinion_2025",
+              4
+            ],
+            [
+              "eiopa_ai_opinion_2025",
+              12
+            ]
+          ],
+          "retrieve_s": 0.06251692771911621,
+          "generate_s": 8.12454080581665,
+          "prompt_tokens": 1396,
+          "output_tokens": 1020,
+          "citation_correct": false
+        },
+        {
+          "id": "q08",
+          "answerable": true,
+          "refused": false,
+          "answer": "The EIOPA Opinion states that, following a risk-based and proportionate approach, undertakings should keep appropriate records of the **training and testing data** and the **modelling methodologies** to enable their reproducibility and traceability [eiopa_ai_opinion_2025, p. 9]. An example of the types of records to keep and regularly review for higher-risk uses of AI systems is provided in Annex I [eiopa_ai_opinion_2025, p. 9], which includes items such as the reasons for using AI (the business objective/task pursued) [eiopa_ai_opinion_2025, p. 13].",
+          "citations": [
+            [
+              "eiopa_ai_opinion_2025",
+              9
+            ],
+            [
+              "eiopa_ai_opinion_2025",
+              13
+            ]
+          ],
+          "retrieve_s": 0.0471341609954834,
+          "generate_s": 5.4931628704071045,
+          "prompt_tokens": 1409,
+          "output_tokens": 337,
+          "citation_correct": true
+        },
+        {
+          "id": "q09",
+          "answerable": true,
+          "refused": true,
+          "answer": "not in the documents",
+          "citations": [],
+          "retrieve_s": 0.049488067626953125,
+          "generate_s": 3.5118660926818848,
+          "prompt_tokens": 1375,
+          "output_tokens": 267,
+          "citation_correct": false
+        },
+        {
+          "id": "q10",
+          "answerable": true,
+          "refused": false,
+          "answer": "At least annually [nydfs_cl7, p. 1].",
+          "citations": [
+            [
+              "nydfs_cl7",
+              1
+            ]
+          ],
+          "retrieve_s": 0.04873204231262207,
+          "generate_s": 1.6404972076416016,
+          "prompt_tokens": 1382,
+          "output_tokens": 125,
+          "citation_correct": true
+        },
+        {
+          "id": "q11",
+          "answerable": true,
+          "refused": false,
+          "answer": "The principle of proportionality asks insurance firms to conduct an AI use case impact assessment to determine the governance measures required for a specific AI use case, with the assessment and measures proportionate to the potential impact of that use case on consumers and/or insurance firms. Firms should then assess the combination of measures in place to ensure ethical and trustworthy use of AI [eiopa_ai_principles_2021, p. 10]. The impact assessment helps firms understand the potential outcomes of AI use cases and determine, in a proportionate manner, the \"mix\" of governance measures needed within their organisations [eiopa_ai_principles_2021, p. 9]. The principle is well-established in insurance, fully applicable in an AI context, and impacts the other governance measures covered in the report [eiopa_ai_principles_2021, p. 18].",
+          "citations": [
+            [
+              "eiopa_ai_principles_2021",
+              9
+            ],
+            [
+              "eiopa_ai_principles_2021",
+              10
+            ],
+            [
+              "eiopa_ai_principles_2021",
+              18
+            ]
+          ],
+          "retrieve_s": 0.04900026321411133,
+          "generate_s": 4.004460096359253,
+          "prompt_tokens": 1357,
+          "output_tokens": 495,
+          "citation_correct": true
+        },
+        {
+          "id": "q12",
+          "answerable": true,
+          "refused": true,
+          "answer": "not in the documents",
+          "citations": [],
+          "retrieve_s": 0.06177115440368652,
+          "generate_s": 1.967871904373169,
+          "prompt_tokens": 1496,
+          "output_tokens": 146,
+          "citation_correct": false
+        },
+        {
+          "id": "q13",
+          "answerable": true,
+          "refused": false,
+          "answer": "64% of the 957 reported Gen AI use cases were implemented internally to enhance organisational processes (back-office), while the remaining 36% were customer-facing applications [eiopa_genai_survey_2025, p. 16].",
+          "citations": [
+            [
+              "eiopa_genai_survey_2025",
+              16
+            ]
+          ],
+          "retrieve_s": 0.05826997756958008,
+          "generate_s": 2.572930097579956,
+          "prompt_tokens": 1429,
+          "output_tokens": 102,
+          "citation_correct": false
+        },
+        {
+          "id": "q14",
+          "answerable": true,
+          "refused": false,
+          "answer": "50% of respondents use AI in non-life insurance and 24% in life insurance [eiopa_digitalisation_report, p. 4]. An additional 30% (non-life) and 39% (life) expect to use AI within the next 3 years [eiopa_digitalisation_report, p. 4].",
+          "citations": [
+            [
+              "eiopa_digitalisation_report",
+              4
+            ]
+          ],
+          "retrieve_s": 0.07658791542053223,
+          "generate_s": 2.4285099506378174,
+          "prompt_tokens": 1505,
+          "output_tokens": 231,
+          "citation_correct": true
+        },
+        {
+          "id": "q15",
+          "answerable": true,
+          "refused": false,
+          "answer": "46% of firms reported having a 'partial understanding' of the AI they use (compared with 34% with 'complete understanding') [fca_ai_research_note, p. 1].",
+          "citations": [
+            [
+              "fca_ai_research_note",
+              1
+            ]
+          ],
+          "retrieve_s": 0.06779909133911133,
+          "generate_s": 2.049466133117676,
+          "prompt_tokens": 1333,
+          "output_tokens": 120,
+          "citation_correct": false
+        },
+        {
+          "id": "q16",
+          "answerable": true,
+          "refused": false,
+          "answer": "Herding and market concentration was the top risk cited in recent IMF outreach on the wider adoption of generative AI in capital markets [boe_fsif_ai_2025, p. 17].",
+          "citations": [
+            [
+              "boe_fsif_ai_2025",
+              17
+            ]
+          ],
+          "retrieve_s": 0.06154894828796387,
+          "generate_s": 2.555312156677246,
+          "prompt_tokens": 1320,
+          "output_tokens": 150,
+          "citation_correct": true
+        },
+        {
+          "id": "q17",
+          "answerable": true,
+          "refused": false,
+          "answer": "Per the 2024 Bank of England and FCA survey, the top three third-party providers accounted for 73% of cloud providers, 44% of model providers, and 33% of data providers [boe_fca_ai_survey_2024, p. 1].",
+          "citations": [
+            [
+              "boe_fca_ai_survey_2024",
+              1
+            ]
+          ],
+          "retrieve_s": 0.0723111629486084,
+          "generate_s": 2.423949956893921,
+          "prompt_tokens": 1387,
+          "output_tokens": 128,
+          "citation_correct": true
+        },
+        {
+          "id": "q18",
+          "answerable": false,
+          "refused": true,
+          "answer": "not in the documents",
+          "citations": [],
+          "retrieve_s": 0.07002115249633789,
+          "generate_s": 2.1482150554656982,
+          "prompt_tokens": 1143,
+          "output_tokens": 76,
+          "refusal_correct": true
+        },
+        {
+          "id": "q19",
+          "answerable": false,
+          "refused": true,
+          "answer": "not in the documents",
+          "citations": [],
+          "retrieve_s": 0.07186174392700195,
+          "generate_s": 2.2689952850341797,
+          "prompt_tokens": 1479,
+          "output_tokens": 205,
+          "refusal_correct": true
+        },
+        {
+          "id": "q20",
+          "answerable": false,
+          "refused": true,
+          "answer": "not in the documents",
+          "citations": [],
+          "retrieve_s": 0.05106091499328613,
+          "generate_s": 1.9231290817260742,
+          "prompt_tokens": 1446,
+          "output_tokens": 116,
+          "refusal_correct": true
+        }
+      ]
+    },
+    {
+      "config": "B",
+      "mode": "vector",
+      "errors": 0,
+      "citation_correct": "9/17",
+      "false_refusals": "7/17",
+      "refusal_correct": "3/3",
+      "retrieve_ms_mean": 451.13552808761597,
+      "generate_s_mean": 2.9058862686157227,
+      "prompt_tokens_mean": 789.85,
+      "output_tokens_mean": 218.1,
+      "prompt_tokens_total": 15797,
+      "output_tokens_total": 4362,
+      "rows": [
+        {
+          "id": "q01",
+          "answerable": true,
+          "refused": false,
+          "answer": "The amended Colorado Regulation 10-1-1 became effective on October 15, 2025 [co_reg_10-1-1_amended, p. 6]. (The original new regulation was effective November 14, 2023 [co_reg_10-1-1_amended, p. 6].)",
+          "citations": [
+            [
+              "co_reg_10-1-1_amended",
+              6
+            ]
+          ],
+          "retrieve_s": 0.05071115493774414,
+          "generate_s": 2.1260879039764404,
+          "prompt_tokens": 738,
+          "output_tokens": 167,
+          "citation_correct": true
+        },
+        {
+          "id": "q02",
+          "answerable": true,
+          "refused": false,
+          "answer": "The annual report (due July 1, 2026 and annually thereafter) must include the title and qualifications of each individual responsible for ensuring compliance, along with the specific Section 5 requirement(s) for which that individual is responsible [co_reg_10-1-1_amended, p. 5]. Names of the individuals may also be provided but are not required [co_reg_10-1-1_amended, p. 5].",
+          "citations": [
+            [
+              "co_reg_10-1-1_amended",
+              5
+            ]
+          ],
+          "retrieve_s": 0.046495914459228516,
+          "generate_s": 3.916598081588745,
+          "prompt_tokens": 752,
+          "output_tokens": 322,
+          "citation_correct": true
+        },
+        {
+          "id": "q03",
+          "answerable": true,
+          "refused": false,
+          "answer": "The compliance report must be no more than ten (10) pages, including an executive summary, and must address Sections 5.A.1. through 5.A.13 [co_reg_10-1-1_amended, p. 5].",
+          "citations": [
+            [
+              "co_reg_10-1-1_amended",
+              5
+            ]
+          ],
+          "retrieve_s": 0.03782796859741211,
+          "generate_s": 3.8281149864196777,
+          "prompt_tokens": 740,
+          "output_tokens": 145,
+          "citation_correct": true
+        },
+        {
+          "id": "q04",
+          "answerable": true,
+          "refused": true,
+          "answer": "not in the documents",
+          "citations": [],
+          "retrieve_s": 0.06878209114074707,
+          "generate_s": 2.5193018913269043,
+          "prompt_tokens": 734,
+          "output_tokens": 162,
+          "citation_correct": false
+        },
+        {
+          "id": "q05",
+          "answerable": true,
+          "refused": false,
+          "answer": "No. For health benefit plan insurers, ECDIS does not include an individual's medical records [co_reg_10-1-1_amended, p. 2].",
+          "citations": [
+            [
+              "co_reg_10-1-1_amended",
+              2
+            ]
+          ],
+          "retrieve_s": 0.04097604751586914,
+          "generate_s": 1.8937511444091797,
+          "prompt_tokens": 791,
+          "output_tokens": 125,
+          "citation_correct": true
+        },
+        {
+          "id": "q06",
+          "answerable": true,
+          "refused": false,
+          "answer": "According to EIOPA's 2025 Opinion, the AI Act classifies as high-risk the use of AI systems for risk assessment and pricing in relation to natural persons in the case of life and health insurance [eiopa_ai_opinion_2025, p. 3].",
+          "citations": [
+            [
+              "eiopa_ai_opinion_2025",
+              3
+            ]
+          ],
+          "retrieve_s": 0.04858803749084473,
+          "generate_s": 2.272083044052124,
+          "prompt_tokens": 829,
+          "output_tokens": 204,
+          "citation_correct": true
+        },
+        {
+          "id": "q07",
+          "answerable": true,
+          "refused": true,
+          "answer": "not in the documents",
+          "citations": [],
+          "retrieve_s": 0.04798603057861328,
+          "generate_s": 5.340426921844482,
+          "prompt_tokens": 785,
+          "output_tokens": 511,
+          "citation_correct": false
+        },
+        {
+          "id": "q08",
+          "answerable": true,
+          "refused": false,
+          "answer": "According to the Opinion's Annex I, which draws its record-keeping examples from EIOPA's 2021 AI governance principles report [eiopa_ai_opinion_2025, p. 13], firms should keep records of:\n\n- The data used in the AI models and the modelling methodologies, which allows decisions to be traced back and verified if disputed, and helps avoid misuse of models [eiopa_ai_principles_2021, p. 61]\n- For high-impact AI applications, the main attributes of the model \u2014 whether developed internally or outsourced from third parties \u2014 with repositories of all deployed models in the organisation recommended [eiopa_ai_principles_2021, p. 61]\n\nThe Opinion notes these examples are illustrative only and not prescriptive guidance [eiopa_ai_opinion_2025, p. 13].",
+          "citations": [
+            [
+              "eiopa_ai_opinion_2025",
+              13
+            ],
+            [
+              "eiopa_ai_principles_2021",
+              61
+            ]
+          ],
+          "retrieve_s": 0.042623043060302734,
+          "generate_s": 5.011132717132568,
+          "prompt_tokens": 848,
+          "output_tokens": 633,
+          "citation_correct": false
+        },
+        {
+          "id": "q09",
+          "answerable": true,
+          "refused": true,
+          "answer": "not in the documents",
+          "citations": [],
+          "retrieve_s": 0.034629106521606445,
+          "generate_s": 1.882563829421997,
+          "prompt_tokens": 776,
+          "output_tokens": 121,
+          "citation_correct": false
+        },
+        {
+          "id": "q10",
+          "answerable": true,
+          "refused": true,
+          "answer": "not in the documents",
+          "citations": [],
+          "retrieve_s": 0.037719011306762695,
+          "generate_s": 1.778014898300171,
+          "prompt_tokens": 826,
+          "output_tokens": 120,
+          "citation_correct": false
+        },
+        {
+          "id": "q11",
+          "answerable": true,
+          "refused": true,
+          "answer": "not in the documents",
+          "citations": [],
+          "retrieve_s": 0.07162904739379883,
+          "generate_s": 5.336133003234863,
+          "prompt_tokens": 689,
+          "output_tokens": 574,
+          "citation_correct": false
+        },
+        {
+          "id": "q12",
+          "answerable": true,
+          "refused": true,
+          "answer": "not in the documents",
+          "citations": [],
+          "retrieve_s": 1.6314070224761963,
+          "generate_s": 2.212415933609009,
+          "prompt_tokens": 864,
+          "output_tokens": 102,
+          "citation_correct": false
+        },
+        {
+          "id": "q13",
+          "answerable": true,
+          "refused": false,
+          "answer": "64% of the reported Gen AI use cases are internal back-office applications (e.g., productivity tools, coding assistants, agent support), compared to 36% for customer-facing applications [eiopa_genai_survey_2025, p. 3] [eiopa_genai_survey_2025, p. 16].",
+          "citations": [
+            [
+              "eiopa_genai_survey_2025",
+              3
+            ],
+            [
+              "eiopa_genai_survey_2025",
+              16
+            ]
+          ],
+          "retrieve_s": 0.08891892433166504,
+          "generate_s": 1.6565310955047607,
+          "prompt_tokens": 787,
+          "output_tokens": 103,
+          "citation_correct": true
+        },
+        {
+          "id": "q14",
+          "answerable": true,
+          "refused": false,
+          "answer": "According to the report, 50% of respondents use AI in non-life insurance and 24% in life insurance [eiopa_digitalisation_report, p. 4], with an additional 30% (non-life) and 39% (life) expecting to use AI within the next 3 years [eiopa_digitalisation_report, p. 22].",
+          "citations": [
+            [
+              "eiopa_digitalisation_report",
+              4
+            ],
+            [
+              "eiopa_digitalisation_report",
+              22
+            ]
+          ],
+          "retrieve_s": 0.4976310729980469,
+          "generate_s": 2.9090049266815186,
+          "prompt_tokens": 897,
+          "output_tokens": 222,
+          "citation_correct": true
+        },
+        {
+          "id": "q15",
+          "answerable": true,
+          "refused": true,
+          "answer": "not in the documents",
+          "citations": [],
+          "retrieve_s": 1.1069939136505127,
+          "generate_s": 2.3165221214294434,
+          "prompt_tokens": 828,
+          "output_tokens": 123,
+          "citation_correct": false
+        },
+        {
+          "id": "q16",
+          "answerable": true,
+          "refused": false,
+          "answer": "Herding and market concentration was cited as the top risk in recent IMF outreach on wider adoption of generative AI in capital markets [boe_fsif_ai_2025, p. 17].",
+          "citations": [
+            [
+              "boe_fsif_ai_2025",
+              17
+            ]
+          ],
+          "retrieve_s": 1.240591049194336,
+          "generate_s": 2.218536138534546,
+          "prompt_tokens": 816,
+          "output_tokens": 135,
+          "citation_correct": true
+        },
+        {
+          "id": "q17",
+          "answerable": true,
+          "refused": false,
+          "answer": "The top three third-party providers accounted for 73% of cloud, 44% of model, and 33% of data providers respectively [boe_fca_ai_survey_2024, p. 1].",
+          "citations": [
+            [
+              "boe_fca_ai_survey_2024",
+              1
+            ]
+          ],
+          "retrieve_s": 0.7440180778503418,
+          "generate_s": 2.1643919944763184,
+          "prompt_tokens": 810,
+          "output_tokens": 111,
+          "citation_correct": true
+        },
+        {
+          "id": "q18",
+          "answerable": false,
+          "refused": true,
+          "answer": "not in the documents",
+          "citations": [],
+          "retrieve_s": 0.9976029396057129,
+          "generate_s": 2.4253787994384766,
+          "prompt_tokens": 715,
+          "output_tokens": 93,
+          "refusal_correct": true
+        },
+        {
+          "id": "q19",
+          "answerable": false,
+          "refused": true,
+          "answer": "not in the documents",
+          "citations": [],
+          "retrieve_s": 1.0398459434509277,
+          "generate_s": 2.4303860664367676,
+          "prompt_tokens": 756,
+          "output_tokens": 216,
+          "refusal_correct": true
+        },
+        {
+          "id": "q20",
+          "answerable": false,
+          "refused": true,
+          "answer": "not in the documents",
+          "citations": [],
+          "retrieve_s": 1.1477341651916504,
+          "generate_s": 3.88034987449646,
+          "prompt_tokens": 816,
+          "output_tokens": 173,
+          "refusal_correct": true
+        }
+      ]
+    }
+  ],
+  "k": 5,
+  "questions": 20
+}

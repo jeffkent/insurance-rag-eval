@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+pgdata/
+*.log
+docs/*.pdf
+docs/*.html
